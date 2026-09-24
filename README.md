@@ -26,7 +26,6 @@
 - [Cleanup](#cleanup)
 - [Learning Outcomes](#learning-outcomes)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -407,13 +406,7 @@ Scalable-Web-Application-with-ALB-and-Auto-Scaling/
     └── cost-optimization.md           # Cost analysis and optimization
 ```
 
----
 
-# Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before submitting a pull request.
-
----
 
 # License
 
