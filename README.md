@@ -1,6 +1,3 @@
-**[Scalable Web Application with ALB and Auto Scaling](https://github.com/mohamedmnmn/Scalable-Web-Application-with-ALB-and-Auto-Scaling)** | **[🚧 Feature request](https://github.com/mohamedmnmn/Scalable-Web-Application-with-ALB-and-Auto-Scaling/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)** | **[🐛 Bug Report](https://github.com/mohamedmnmn/Scalable-Web-Application-with-ALB-and-Auto-Scaling/issues/new?assignees=&labels=bug&template=bug_report.md&title=)** | **[❓ General Question](https://github.com/mohamedmnmn/Scalable-Web-Application-with-ALB-and-Auto-Scaling/issues/new?assignees=&labels=question&template=general_question.md&title=)**
-
-> **Note**: This solution deploys a production-grade, highly available web application on AWS using CloudFormation. Review the [Deployment Guide](docs/deployment-guide.md) before deploying.
 
 ## Table of Contents
 
