@@ -1,0 +1,22 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'Standalone VPC nested stack template'
+Parameters:
+  EnvironmentName:
+    Type: String
+    Default: Production
+  VpcCIDR:
+    Type: String
+    Default: 10.0.0.0/16
+Resources:
+  VPC:
+    Type: AWS::EC2::VPC
+    Properties:
+      CidrBlock: !Ref VpcCIDR
+      EnableDnsSupport: true
+      EnableDnsHostnames: true
+      Tags:
+        - Key: Name
+          Value: !Sub ${EnvironmentName}-Standalone-VPC
+Outputs:
+  VpcId:
+    Value: !Ref VPC

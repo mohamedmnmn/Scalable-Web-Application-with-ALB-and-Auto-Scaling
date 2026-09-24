@@ -1,0 +1,6 @@
+*.log
+.DS_Store
+.aws/
+node_modules/
+venv/
+.env
